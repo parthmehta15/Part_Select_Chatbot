@@ -1,0 +1,558 @@
+'
+    
+    Issue: How To Fix A Noisy Dishwasher
+
+    Reasons:
+    
+    Pump,Wash Arm Bearing Ring & Spray Arm Seal,Spray Arms,
+
+Descriptions
+How To Fix A Noisy Dishwasher due to Pump
+A defective pump could be the reason your dishwasher is making loud noises. The function of the pump is to pressurize the spray arms, and in most models, it is also used to drain the water. The pump sits at the bottom of the dishwasher and typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter. The impellers are driven by an electric motor that is attached to the bottom or side of the pump.
+How to test a dishwasher pump with a multimeter:
+Unplug your dishwasher before beginning this test; you will be handling electrical components.
+Remove the pump in order to test it. The pump is usually found behind the lower access panel.
+Using a multimeter on Rx1, place the probes onto the terminals to test for continuity. You should receive a reading of zero or nearly zero. To test the ground connection, with one probe still on a terminal, touch the other probe to the bare metal housing of the pump. You should not receive any reading from this test.
+If your test results do not match those above, you will need a replacement pump.
+
+
+
+How To Fix A Noisy Dishwasher due to Wash Arm Bearing Ring & Spray Arm Seal
+If your dishwasher is noisy, the cause could be a wash arm seal or bearing ring. These parts are plastic rings that support the wash arm or the spray arm and that the arm rotates on. Either of these parts could be loose or be worn, causing the spray arm to not function properly.
+How to inspect your wash arm bearing ring & spray arm seal:
+While you will not be disassembling your appliance, we still recommend unplugging your appliance before beginning.
+Locate your wash arm bearing ring & spray arm seal. They will be found attached to the spray/wash arms.
+Visually inspect them for signs of wear, cracking, or damage. You may need to remove the spray/wash arms to fully inspect them, depending on your model.
+If you find signs of the above symptoms, you will need replacement wash arm bearing rings and/or spray arm seals.
+
+
+
+How To Fix A Noisy Dishwasher due to Spray Arms
+Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub.
+How to inspect dishwasher spray arms:
+For safety, disconnect the power from your appliance before beginning.
+Manually spin your spray arms to ensure they are not hitting the racks and are turning freely. The spray arms should not be wobbly.
+Visually inspect your spray arms for any signs of wear, cracking, or damage.
+If you find any issues while performing the checks above, you will need replacement spray arms.
+
+
+
+'
+    
+    Issue: How To Repair A Leaking Dishwasher
+
+    Reasons:
+    
+    Pump,Door Gasket,Water Inlet Valve,Dispensers & Grommets,Spray Arm,Float & Float Switch,Hose Clamps & Hoses,
+
+Descriptions
+How To Repair A Leaking Dishwasher due to Pump
+A defective pump and/or pump seal may be the cause of a dishwasher leak. The function of the pump is to circulate water in the dishwasher and in some models, to drain the water as well. The pump typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter.
+How to test a dishwasher pump with a multimeter:
+Disconnect the power from your appliance before beginning.
+On most models, the pump will be found behind the lower access panel. Locate and remove your dishwasher pump in order to test it.
+To test for continuity, set your multimeter to Rx1 and touch the terminals with the probes. This test should produce a reading of exactly or nearly zero. You should also check the ground connection of the pump. To do this, leave one probe on the terminal and touch the other to the bare metal housing of the pump. This test should not produce any reading.
+If your readings differ from the results above, you will need a replacement pump.
+
+
+
+How To Repair A Leaking Dishwasher due to Door Gasket
+If water appears to be leaking around the front of the dishwasher, the problem may be with the door gasket. The dishwasher door gasket or seal is normally made of soft rubber or vinyl and goes around the door or tub opening of the dishwasher, creating a watertight seal. Some dishwasher models have rubber baffles located at the bottom corners of the tub opening that prevent water leaking in that area. When vinyl or rubber ages, it can become less flexible or even brittle and may damage easily or not seal properly.
+How to inspect a door gasket on a dishwasher:
+Open your dishwasher door to locate the door gasket, and baffles if applicable.
+Visually inspect the gasket for any signs of wearing, damage, missing pieces, or misalignment.
+If you find any of the above, you will need a replacement door gasket.
+
+
+
+How To Repair A Leaking Dishwasher due to Water Inlet Valve
+The water inlet valve feeds the water from your home’s main water line into the dishwasher and could be the source of a leak. The inlet valve can be found behind the lower kick plate. The hot water inlet supply to the valve may be copper tubing, rubber hose or braided hose.
+How to test a dishwasher water inlet valve:
+Similar to most other inspections, begin by disconnecting your appliance from both the power and the water source.
+In order to access the water inlet valve, you will need to remove the lower access panel of your appliance. The valve will likely be located on the left side.
+Begin by inspecting the body of the valve. You are looking for any signs of cracking, damage, wear, or any other indication of a leak.
+If you find any of the above, you will need a replacement water inlet valve.
+
+
+
+How To Repair A Leaking Dishwasher due to Dispensers & Grommets
+The detergent dispenser and the rinse aid dispenser are normally located on the inner door panel of the dishwasher. Some models use a dispenser assembly that is attached to the panel with screws and a gasket to seal against water leaks. Other models may use a dispenser that is molded into the door panel but uses a dispenser latch assembly that is attached to the back of the inner panel and use a rubber grommet to seal around the dispenser latch where it protrudes through the door panel. If you have a water leak that appears to come from the front of your dishwasher, the dispenser gasket or the dispenser latch grommet may be the cause.
+How to inspect a dishwasher detergent/rinse aid dispenser & grommets:
+For safety, unplug your dishwasher before beginning.
+Open the dishwasher door to visually inspect the dispenser.
+First, inspect the lever for cracking or damage, a broken lever would prevent the dispenser from opening or closing properly. Next, inspect the dispenser cover for any wear or damage. Finally, inspect the container itself for cracks or other damage.
+If you find any issues while performing the inspections above, you will need a replacement dispenser.
+
+
+
+How To Repair A Leaking Dishwasher due to Spray Arm
+Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub. Most spray arms are made of plastic which can crack or warp enough to change the spray pattern significantly. Metal spray arms can become damaged or separate at the seams which can also alter the spray pattern. These conditions can cause water to be directed at the bottom of the door where there is no gasket and therefore creating a water leak.
+How to inspect dishwasher spray arms:
+While not crucial, we recommend you unplug your dishwasher before starting this inspection.
+Begin by inspecting the arms for any signs of cracking, wear, or any other damage.
+Next, manually spin the spray arms. You should be feeling to see if there is any resistance, if they are wobbling, or if they hit the dish racks. Additionally, inspect to see if any of the holes in the arms are clogged, clear out anything you may find.
+If you find any of the issues described above, you will need replacement spray arms.
+
+
+
+How To Repair A Leaking Dishwasher due to Float & Float Switch
+The float and float switch are used as a safety device to prevent the dishwasher from overfilling with water. The float is located inside of the tub at the bottom of the dishwasher and the float switch is located beneath the tub directly below the float. The float lifts as the water level in the dishwasher rises, and when the proper water level is reached, the stem of the float activates the float switch to turn off the water inlet valve. A malfunctioning float or float switch could cause the water level to be too high and create a leak. The proper water level is normally just to the heating element on the bottom of the tub. If the water level in your dishwasher is too high, then you should suspect that the float or float switch may be the cause of the problem.
+How to test a dishwasher float switch with a multimeter:
+Disconnect your dishwasher from the power source as well as the water supply.
+The float switch will be found inside your dishwasher’s tub; you will need to remove the lower access panel to access it. The switch is usually located directly below the float assembly, once you have located it, remove it in order to test it.
+Using a multimeter set to Rx1, touch the switch’s terminals with the probes to test for continuity. You should receive a reading of zero or infinity. With the probes still touching the terminals, press in on the switch’s button, this should change it to the opposite extreme (from zero to infinity, or infinity to zero).
+If your test results differ from those above, you will need a replacement float switch.
+
+
+
+How To Repair A Leaking Dishwasher due to Hose Clamps & Hoses
+The hose clamps secure the drain hose and the circulating hose to the dishwasher pump. These hoses and clamps can be found by removing the kickplate at the bottom of the dishwasher. If the clamps have come loose or the hoses have cracks in them, it could be the cause of a leak. Be sure to check the clamps on both the drain hose and the circulating hose.
+How to inspect dishwasher hoses:
+Disconnect the water supply as well as the power source from your appliance before beginning.
+The hoses are usually found behind the lower access panel (or kickplate). You will need to remove this in order to locate them.
+You will be checking two hoses, both of which are connected to a pump below the lower spray arm: The drain hose and the recirculation hose. Remove both hoses in order to inspect them.
+Visually inspect the hoses for any signs or wear, cracking, or damage. Attempt to run water through each to identify if there is a blockage inside the hose.
+If you find any issues while performing the inspection above, you will need a replacement hose.
+
+
+
+'
+    
+    Issue: How to Fix a Dishwasher That Won’t Start
+
+    Reasons:
+    
+    Door Latch Or Door Latch Switch,Timer Or Electronic Control,Selector Switch,Motor Start Relay,Thermal Fuse,Drive Motor,
+
+Descriptions
+How to Fix a Dishwasher That Won’t Start due to Door Latch Or Door Latch Switch
+If your dishwasher won’t start, the problem could be the door latch or door latch switches. The door latch assembly is used to hold the door closed during the cycle to prevent water from leaking and it also incorporates the door latch switches that supply power to the dishwasher controls. If the door cannot close properly to activate the door latch switches or if the switches are defective, then the dishwasher controls will not receive power and the dishwasher will not start. Inspect the latch assembly including the switches.
+How to test a dishwasher door latch assembly with a multimeter:
+Disconnect your appliance from the power source before beginning.
+Begin by removing the inner door panel to gain access to the door latch assembly. It is usually found at the top of the door. Once you have located it, verify that the door catch activates the door latch switches by inserting the catch into the assembly.
+If the switches are being activated mechanically, remove the switches to check them for continuity. Using a multimeter on Rx1, touch the probes to the switch’s terminals. This should produce a reading of zero or nearly zero.
+If you receive a different reading, you will need a replacement door latch assembly.
+
+
+
+How to Fix a Dishwasher That Won’t Start due to Timer Or Electronic Control
+If you have determined that the door latch assembly is operating properly and your dishwasher still won’t start, the next step would be to look at the timer or electronic control. The first step of the dishwasher cycle is normally a drain function to remove any standing water in the tub. If you do not hear the drain pump motor running, then you should look at the timer or electronic control as a possible cause. On manual timer models, the timer is used to supply power to the pump motor, water inlet valve, heater circuit and drain pump motor at the proper sequence in the cycle. The timer uses a series of electrical contacts that are driven by a small motor all of which are encased in the timer housing.
+How to test a dishwasher timer with a multimeter:
+Disconnect your appliance from the power source.
+Locate and remove the timer. It will most likely be found in the control panel, but it is also often found behind the lower kick plate.
+Some timers may have multiple sets of contacts/wires, if this is true for your model, you will need to refer to your wiring diagram to determine which contacts to test.
+Set your multimeter to Rx1000 and touch the contacts with the probes. Most functioning timers will fall in the range of 2000-3500 ohms of resistance, but this varies between models. Refer to your owner's manual to determine what reading your test should produce.
+If your test results differ from the manufacturer's recommendations, you will need a replacement timer.
+
+
+
+How to Fix a Dishwasher That Won’t Start due to Selector Switch
+The selector switch on a dishwasher is used to select different options for the individual cycles, such as heated dry and heated wash cycles. Depending on the model involved, the switch may be used in the motor or fill circuit and could cause a dishwasher to not start if it were defective or if the selector buttons were not fully depressed. Check to ensure that the switch is properly depressed before attempting any disassembly. The contacts of the selector switch can be checked for continuity with a multimeter using the schematic diagram as a guide.
+How to test a dishwasher selector switch with a multimeter:
+Begin by disconnecting your appliance from the power source.
+Remove the inner door panel of your dishwasher in order to locate the selector switch. It most likely will be found on the control panel. Once you have located it, ensure that the switch is properly depressed. If it is, remove it from the appliance in order to test it.
+Using a multimeter set to Rx1, touch the probes to the terminals of the switch, you will need to test each button individually. This should produce a reading of infinity. Next, with the probes still on the terminals, press in on the button of the terminals you are testing. This should change your reading to zero. Repeat this test for all other buttons.
+If any of your readings do not match the results above, you will need a replacement selector switch.
+
+
+
+How to Fix a Dishwasher That Won’t Start due to Motor Start Relay
+Some models of dishwashers use a start relay on the main pump motor. The start relay is used to supply power to the motor start windings until the motor is running and has a moving plunger inside that operates a set of contacts. If your dishwasher won’t start and you have verified that you are getting power from the control circuit to the motor, then the motor start relay may be defective.
+How to test a dishwasher motor start relay:
+Ensure that you have unplugged your dishwasher before beginning.
+The motor start relay is normally located next to the pump. Remove the lower access panel of your dishwasher in order to locate the motor start relay. Once you have found it, remove it in order to test it.
+After referring to your wiring diagram, set your multimeter to Rx1 and begin by testing the coil portion of the relay for continuity. This test should produce a reading of zero or nearly zero. Next, you will need to manually activate the relay by turning it upside down and allowing the plunger to drop. Once it is activated, touch the probes to the terminals of the relay. This test should also produce a reading of zero or nearly zero.
+If your test results differ from those above, you will need a replacement motor start relay.
+
+
+
+How to Fix a Dishwasher That Won’t Start due to Thermal Fuse
+Some models of electronic controlled dishwashers use a thermal fuse to protest the control board. The thermal fuse is normally located on the top side of the circuit board assembly with two wires attached to it. When the thermal fuse fails, the control board will not receive power and the dishwasher will not start.
+How to test a dishwasher thermal fuse with a multimeter:
+Unplug your appliance before beginning this test, you will be handling electrical components.
+Remove the inner door of your dishwasher in order to access the control panel. The thermal fuse will be attached to the control panel by 2 wires, carefully disconnect these wires and remove the thermal fuse in order to test it.
+With a multimeter set to Rx1, touch the fuse’s contacts with the probes. You are testing for continuity and should receive a reading of zero or nearly zero.
+If you do not receive this reading, you will need a replacement thermal fuse.
+
+
+
+How to Fix a Dishwasher That Won’t Start due to Drive Motor
+A dishwasher’s drive motor is the part that circulates the water to wash the items inside. Electrical power to operate the drive motor is supplied through the timer, or the electronic control, in conjunction with a start relay. If the dishwasher won’t start after the start relay sends power to the motor, this could indicate that the drive motor is defective. You may also hear a loud, humming noise coming from the motor – this could indicate a seized motor, which would need to be replaced.
+How to test a dishwasher drive motor with a multimeter:
+Before starting, ensure that you have disconnected your dishwasher from the power source.
+Remove the lower access panel of your appliance in order to locate the drive motor. Once you have located it, carefully disconnect the wires attached to it and remove it in order to test it for continuity.
+With the motor removed from the appliance, set your multimeter to Rx1 and touch the probes to the motor’s terminals. A functional drive motor will produce a reading of zero or nearly zero. Next, test the ground connection by moving one of the probes to the bare metal housing of the motor. This test should not produce any reading.
+If either of your tests produces different readings, you will need a replacement drive motor.
+
+
+
+'
+    
+    Issue: How To Fix A Broken Dishwasher Door Latch
+
+    Reasons:
+    
+    Door Latch Assembly,
+
+Descriptions
+How To Fix A Broken Dishwasher Door Latch due to Door Latch Assembly
+If your door latch is not working properly, the first thing to inspect should be the door catch. The door catch is attached to the top of the dishwasher tub and is normally adjustable. If not adjusted properly it can cause the door latch to not activate and will prevent the dishwasher from working, or it may not close the door tight enough to prevent a leak. The door latch may also be worn and no longer creates a tight fit, in which case the door latch will need to be replaced.
+How to test a dishwasher door latch assembly with a multimeter:
+Verify that you have unplugged your dishwasher before beginning.
+The door latch assembly is most often found inside the inner door panel, near the top of the door. Remove your inner door panel and locate the door latch assembly.
+Inspect the door catch to verify that it is mechanically activating the switches. If it is, remove the switches in order to test them for continuity.
+Set your multimeter to Rx1 and touch the terminals with the probes. You are testing for continuity and should receive a reading of exactly or nearly zero.
+If your test produces any other reading, you will need a replacement door latch assembly.
+
+
+
+'
+    
+    Issue: How To Fix Dishwasher That Won't Clean Properly
+
+    Reasons:
+    
+    Upper Discharge Housing Gasket,Spray Arm,Docking Station,Chopper,Water Inlet Valve,Water Delivery Tube,Filters,Wash Spinner,Detergent Dispenser,Heating Element,Pump Impellers,
+
+Descriptions
+How To Fix Dishwasher That Won't Clean Properly due to Upper Discharge Housing Gasket
+If you are experiencing low pressure from the spray arms, the upper discharge housing gasket could be the source of the problem.
+How to inspect a dishwasher upper discharge housing gasket:
+For safety, unplug your dishwasher before starting this repair.
+This housing gasket is located on the discharge cover above the circulation impeller. The gasket may have just come loose, or it may need to be replaced altogether. Locate your gasket in order to inspect it.
+Inspect the gasket for any signs of wear, damage, cracking, missing chunks, and if it is properly attached. If it is loose, ensure that there is no debris that is preventing a proper seal and then reattach it.
+If you find your housing gasket is damaged or worn, you will need a replacement upper discharge housing gasket.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Spray Arm
+The lower spray arm (as well as the upper and middle spray arms if applicable) could be the reason why your dishwasher is not cleaning properly. The function of the spray arms is to spray the dishes with a strong stream of hot water and detergent. If some of the holes are plugged, then you should also inspect the filter system for a possible problem. Cracks or separated seams in the spray arms will impair the force of the spray as well. If your dishwasher has an upper spray arm also inspect the spray arm mounting bracket to make sure it hasn't become loose, cracked or otherwise restricted.
+How to inspect dishwasher spray arms:
+Disconnect the appliance from the power source before beginning.
+Open your dishwasher and visually inspect your spray arms. You are looking for any signs of wear, cracking, or damage. Inspect the holes of the arms to see if any dirt or debris is lodged in them, clean out anything you find.
+Turn the spray arms manually. While doing so, you should be inspecting if there is much resistance, if the arms are wobbling, or if the arms hit the dish racks.
+If your spray arms show any of the above symptoms, you will need replacement spray arms.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Docking Station
+If your dishwasher has a middle spray arm attached to an adjustable upper rack, then you should inspect the docking station along with its flappers. The docking provides water to the middle spray arm and usually has two outlets.
+How to inspect a dishwasher docking station:
+Before beginning this inspection, disconnect the power supply from your appliance.
+The docking station can be found at the back of the dishwasher on the water supply tube. Locate your docking station in order to inspect it.
+Begin by checking to see if the docking station is connected securely to the water supply tube. Next, check the flappers to make sure they can move freely and that they will close securely. You should also inspect all components, particularly the plastic pieces, of the docking station for signs of cracking, wear, or damage.
+If you find any issues while performing the checks above, you will need a replacement docking station.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Chopper
+The food chopper, chops up the food particles that were left on your dishes into tiny pieces so that they can easily pass through the drain portion of the dishwasher pump. If the food particles are not chopped finely enough, the debris may prevent the dirty water from draining and could possibly get re-circulated in the dishwasher. If your dishwasher is not cleaning properly, inspect the drain portion of the pump, if you find that there is food debris; check the food chopper to see if it is damaged.
+How to inspect a dishwasher chopper:
+Disconnect your appliance from the power source before beginning.
+In order to access the food chopper, you will need to remove the lower spray arm as well as the spray tower. Once you have access to it, remove the food chopper in order to closely inspect it.
+Visually inspect the food chopper for any signs of wear, discoloration, damage, or cracking. Remove any debris you may find on or near the chopper.
+If you find your chopper shows any of the symptoms above, you will need a replacement chopper.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Water Inlet Valve
+The water inlet valve one of the most common dishwasher parts to fail and could be the cause of a dishwasher that is not cleaning the dishes well, if it is not providing the proper water level in the tub.
+How to inspect a dishwasher water inlet valve:
+Disconnect the water supply and the power source from your appliance before beginning this inspection.
+The water inlet valve is usually located behind the lower access panel. Remove the lower access panel in order to locate the inlet valve.
+Once you have located it, visually inspect the water inlet valve for any signs of cracking, wear, or other damage.
+If any issues are found during your inspection, you will need a replacement water inlet valve.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Water Delivery Tube
+If your dishwasher has an upper spray arm, then the water delivery tube may be the cause of the problems. The water delivery tube or wash arm manifold is a tube typically made of plastic that supplies water from the pump to the upper spray arm and on some models to the middle spray arm.
+How to inspect a dishwasher water delivery tube:
+Unplug your dishwasher before starting this inspection.
+Locate your water delivery tube in order to inspect it. You likely will need to remove your dishwasher’s lower access panel.
+Begin by checking the alignment of the tube, it should be aligned with the spray arms and have no restrictions impeding the flow of water. On some models, there is a filter inside the tube. If this is the case for your dishwasher, inspect the filter to see if it has become plugged. You should also visually inspect your water delivery tube to ensure it is not worn or damaged.
+If you find any issues while performing the inspections above, you will need a replacement water delivery tube.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Filters
+All dishwashers will have one or more filters to remove food particles from the wash water during the cycle. These filters are typically self-cleaning, but under certain water conditions or detergent usage these filters can become clogged.
+How to inspect dishwasher filters:
+Unplug your dishwasher before beginning these inspections.
+Locate and remove the filters in the circulating portion of the pump and/or in the wash arm manifold.
+Clean any debris you find in the filters. Visually inspect the filters to see if they have become torn or otherwise damaged.
+If you find any issues with your filters, you will need a replacement dishwasher filter.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Wash Spinner
+If the third level wash spinner has come loose, is not properly fitted or is cracked, it may be the reason why your dishes are not coming out as clean as they should be.
+How to inspect a dishwasher wash spinner:
+To ensure your safety, unplug your dishwasher before starting.
+Locate your wash spinner, it will be found on the water feed tube, which is found at the rear of the wash tub. You may need to remove wash arms or other components in order to access it, depending on your model.
+Inspect the area around the wash spinner to ensure there are no obstructions preventing it from turning freely. You should also visually inspect it for any signs of discoloration, cracking, or damage.
+If you find your spinner shows any of the above issues, you will need a replacement wash spinner.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Detergent Dispenser
+The detergent dispenser could be the cause of the dishwasher not cleaning your dishes. First, make sure you are using a high-quality detergent, and if you are using gel or tablets, consider switching to a powdered detergent as it dissolves faster. If your detergent cup has a prewash compartment, you could consider adding detergent to this compartment. Make sure you are using enough detergent based on your local water conditions. Hard water will require more detergent than soft water, but be careful to not use too much detergent as you could cause damage to your glassware.
+How to inspect a dishwasher detergent dispenser:
+To ensure your safety, be sure to unplug your appliance before beginning.
+The detergent dispenser will most likely be found on the inside of the door. You will not need to remove it to perform this inspection.
+Begin by running a test cycle with detergent in the dispenser to verify that the detergent is being released during the cleaning cycle.
+If It is, visually inspect the dispenser for any signs of wear or damage. Additionally, you should clean any clogged or caked-on detergent off the dispenser, as this may be preventing the detergent from being released properly.
+If you find any issues during your inspection, you will need a replacement detergent dispenser.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Heating Element
+Dishwashers need adequate hot water to properly clean the dishes, usually about 140 degrees Fahrenheit. The heating element, found at the bottom of the dishwasher is used to maintain the temperature of the water in the dishwasher, or to heat the water higher than normal for certain cycles depending on the cycle option selected. It is important to note that the heating element is not used to heat the water for normal wash cycles, so before checking the heating element, ensure that the water entering your dishwasher is hot enough. Please note that water hotter than 140-150 degrees is not recommended as damage to your dishes can occur with very hot water. Before starting a washing cycle, run the hot water in your sink for a few minutes. If hot water is going into your dishwasher, but the water temperature falls during the cycle even with a heating option selected, then you may need to replace the heating element.
+How to test the heating element in a dishwasher with a multimeter:
+Begin by disconnecting your appliance from the power source.
+Locate your heating element, it will be found on the bottom of the tub and depending on your model, it may have a cover. If it does have a cover, remove it.
+Remove the lower access panel and disconnect wires attached to the heating element’s terminals that protrude through the base of the dishwasher.
+Set your multimeter to the Rx1 setting and touch the terminals with the probes. The reading of a functional heating element varies between models but will fall between zero and infinity, refer to your owner’s manual to determine what reading you should receive. If your reading is exactly zero or infinity, it is defective.
+If your heating element’s reading is outside the manufacturer’s recommended range, you will need a replacement heating element.
+
+
+
+How To Fix Dishwasher That Won't Clean Properly due to Pump Impellers
+In a dishwasher there are two impellers, the wash impeller and the drain impeller located within the dishwasher’s pump. The wash impeller is the part that circulates the water and pressurizes the spray arms. The drain impeller, if used on your model, is used only to drain the dishwasher.
+How to inspect dishwasher pump impellers:
+Disconnect the power source from your dishwasher before starting this inspection.
+The pump impellers will be found attached to the pump/motor. Depending on your model, you will need to remove all or some of the following parts to access the impellers: lower access panel, spray arm, pump housing, & screen. Once you have access to them, remove the impellers to closely inspect them.
+Visually inspect your impellers for any signs of cracking, wear, damage, or discoloration. Additionally, ensure that there are no debris preventing them from moving freely when in place.
+If you find any issues while performing the checks above, you will need replacement impellers.
+
+
+
+'
+    
+    Issue: How To Fix A Dishwasher That Won't Drain
+
+    Reasons:
+    
+    Piston & Nut Assembly,Drain Pump & Motor,Check Valve Flapper,Belt,Timer,Drain Hose,
+
+Descriptions
+How To Fix A Dishwasher That Won't Drain due to Piston & Nut Assembly
+Some models of dishwashers utilize a check valve as part of the drain pump. Within the check valve, there is the piston and nut assembly. If your dishwasher is not draining water properly, the piston and nut assembly could be the source of the problem.
+How to inspect a dishwasher piston & nut assembly:
+Disconnect your appliance from the power source.
+Locate your piston & nut assembly. It likely will be found on the bottom of the tub, beneath the sump cover.
+ Inspect your piston & nut assembly to determine if it is functioning properly. The assembly should move up and down freely. When the piston is in the down position, it should form a tight seal. If it is not forming a complete seal, the dishwasher will not completely pump out the water.
+If you find any issues while performing the inspection, you will need a replacement piston & nut assembly.
+
+
+
+How To Fix A Dishwasher That Won't Drain due to Drain Pump & Motor
+All dishwashers will have a method to drain the water. Most models will have a single motor driven pump with two separate compartments, one for circulation and one for drain, each with its own impeller. Other types will have a separate drain pump, and some will utilize the main circulating pump in conjunction with a drain solenoid and diverter valve or flapper. On models that use a separate drain pump, you should check to see if there is any obstruction to the input and output of the pump and also verify that there is power getting to the pump motor during the drain portion of the cycle.
+How to test a dishwasher pump with a multimeter:
+Before beginning, ensure that you have disconnected your appliance from the power source.
+Locate and remove your dishwasher pump. It likely will be found behind the lower access panel.
+Once you have removed it, using a multimeter on Rx1 mode, touch the pump’s terminals with the probes. You are testing for continuity and should receive a reading of zero or nearly zero. Next, you should test the ground connection by touching one of the probes to the bare metal housing while leaving one on a terminal. This test should not produce any reading.
+If the results of your tests are different from the above, you will need a replacement pump.
+
+
+
+How To Fix A Dishwasher That Won't Drain due to Check Valve Flapper
+Some dishwasher models will use a check valve in the drain outlet. The check valve is used to allow water to flow in one direction but will prevent the dirty water from re-entering the dishwasher. If you suspect that the drain hose has a restriction or if you find that wastewater is getting back into the dishwasher tub, then the check valve is most likely the problem.
+How to inspect the check valve flapper in a dishwasher:
+To ensure your safety, unplug your dishwasher before beginning this inspection.
+Locate your check valve flapper in order to inspect it. In most models, it will be found on the outlet port of the drain pump or housing. You will need to remove the lower access panel in order to inspect it.
+Visually inspect the flapper for any signs of wear or damage. You should also check to see if there is any dirt or debris preventing the flapper from moving freely, remove anything you may find.
+If your valve is damaged, or if you find no objects preventing it from opening properly, you will need a replacement check valve flapper.
+
+
+
+How To Fix A Dishwasher That Won't Drain due to Belt
+Some older dishwashers may use a belt driven pump. If the belt has come off or is slipping, then the pump that drains the dishwasher won’t function properly.
+How to inspect a dishwasher belt:
+Similar to other dishwasher inspections, disconnect your appliance from the power source before beginning.
+Your dishwasher belt will be found behind the lower access panel, attached to a pulley on the pump assembly and to another pulley on the motor assembly. Remove the belt in order to closely inspect it.
+Looking for any signs of burning, stretching, cracking, damage, or wear, inspect the belt.
+If you find any issues while inspecting it, you will need a replacement belt.
+
+
+
+How To Fix A Dishwasher That Won't Drain due to Timer
+Some dishwashers will use a mechanical timer to operate the cycles. The timer controls the main pump motor as well as the drain solenoid or separate drain pump motor if your model has that style. The timer is normally located in the control panel at the top of the dishwasher door. You will require a wiring diagram and schematic to identify the correct timer contacts that control the drain cycle. These can then be checked for continuity with a multi-meter and if defective then the timer will need to be replaced.
+How to test a dishwasher timer with a multimeter:
+Unplug your dishwasher before beginning this test.
+Your timer will likely be found either in the control panel or behind the lower kickplate. Locate and remove your appliance’s timer in order to test it.
+If your model has multiple sets of contacts/wires, you will need to refer to your owner’s manual to determine which sets to test.
+Remove the timer from your appliance, set your multimeter to Rx1000, and touch the contacts/wires with the probes. In most models, a functional timer will produce a reading of 2000-3500 ohms of resistance, but this varies from model to model. Please refer to your owner's manual to determine what reading you should see.
+If the results of your test are different than the manufacturer’s guidelines, you will need a replacement timer.
+
+
+
+How To Fix A Dishwasher That Won't Drain due to Drain Hose
+A dishwasher will not drain properly if it has a restricted or clogged drain hose. Restrictions typically appear most often at the outlet from the pump or drain housing where a check valve may be located, at the input to the household drain system or anywhere that a kink may have formed in the drain hose. If food debris has caused a restriction, then you should check the condition of the food chopper as a possible source of the problem.
+How to inspect a dishwasher drain hose:
+Verify that the water and power sources have been disconnected from your dishwasher before beginning this inspection.
+Remove the lower access panel of your appliance and locate the drain. It will be connected to a pump below the lower spray arm.
+Remove the hose in order to inspect the drain hose closely. You are looking for any visible signs of cracking, damage or wear. You should also attempt to run water through the hose to determine if there is a blockage inside.
+If any issues are found while doing the inspections above, you will need a replacement hose.
+
+
+
+'
+    
+    Issue: How To Fix A Dishwasher That Will Not Fill With Water
+
+    Reasons:
+    
+    Water Inlet Valve,Float,Float Switch,Door Switch,
+
+Descriptions
+How To Fix A Dishwasher That Will Not Fill With Water due to Water Inlet Valve
+The water inlet valve is used to fill the dishwasher with the proper amount of hot water and is controlled by the timer or electronic control. The valve will be located behind the lower access panel and will have two wires attached to it, an outlet hose to the tub and a hot water inlet from the household supply. If your dishwasher does not fill, then you should first check the inlet supply to verify that you have enough water pressure.
+How to inspect a dishwasher water inlet valve:
+Unplug your dishwasher and disconnect the water supply before starting.
+Locate your water inlet valve. It is commonly found on the lower left side of your dishwasher. You likely will need to remove the lower access panel to locate it.
+Looking for any signs of damage, wear, or cracking, visually inspect the water inlet valve.
+If your valve shows signs of any of the symptoms described above, you will need a replacement water inlet valve.
+
+
+
+How To Fix A Dishwasher That Will Not Fill With Water due to Float
+A malfunctioning float could cause the dishwasher to not fill with water. The acts as a safety device that prevents the dishwasher from overfilling with water. The float rises with the water level in the dishwasher and when the proper level is reached, the float will trigger the float switch to turn off the water inlet valve.
+How to check a dishwasher float assembly:
+Before beginning, verify that you have unplugged your appliance.
+Begin by opening your dishwasher door and removing the cover over the float assembly. Once you’ve done that, manually lift the float and let it drop multiple times, it should move freely, if it does not, remove the float to remove any foreign objects in the guide tube. You should also inspect the float for any visible wear or damage.
+Remove the lower access panel to determine if the float is mechanically engaging with the float switch.
+If you find any issues while performing this inspection, you will need a replacement float.
+
+
+
+How To Fix A Dishwasher That Will Not Fill With Water due to Float Switch
+When the float switch is triggered by the float, power to the water inlet valve is interrupted and it stops the flow of water into the dishwasher.
+How to test a dishwasher float switch with a multimeter:
+Disconnect your dishwasher from the power source before beginning this inspection; you will be handling electrical components.
+Locate and remove the float switch. It will be found behind the lower access panel, sitting directly below the float assembly. Use caution when disconnecting the wires from the switch, do not pull directly on the wires.
+Once you have removed it, test the float switch by setting your multimeter to Rx1 and touching the probes to the switch’s terminals. This should produce a reading of zero or infinity. With the probes still touching the terminals, press in on the switch’s button, this should change the reading to the opposite extreme (from zero to infinity or infinity to zero).
+If your test results produce readings that differ from the above, you will need a replacement float switch.
+
+
+
+How To Fix A Dishwasher That Will Not Fill With Water due to Door Switch
+The door switch is a simple on/off mechanism that prohibits the dishwasher from operating when the door is open. If the door switch or switches are malfunctioning the dishwasher will not fill with water.
+How to test a dishwasher door switch with a multimeter:
+Before beginning, ensure that you unplug your appliance as you will be working with electrical components.
+The door switch is typically located behind the door panel at the top of the door. You will need to separate the inner door from the outer door in order to access the switch. Once you have located it, remove the door switch in order to test it for continuity.
+Using a multimeter set to Rx1, test for continuity by touching one probe to the COM terminal and the other probe to the N.O. Terminal. With the actuator NOT pushed in, your reading should be infinity. Next, keeping the probes on the terminals, press in on the actuator until you hear a click, this should change the reading to zero.
+If the results of your test do not match the results above, you will need a replacement door switch.
+
+
+
+'
+    
+    Issue: How to Fix A Dishwasher That Won't Dispense Detergent
+
+    Reasons:
+    
+    Detergent & Rinse Aid Dispensers,Rinse Aid Cap,Door Spring & Hinge Pin,Wax Motor,Bi-Metal Release,Timer,
+
+Descriptions
+How to Fix A Dishwasher That Won't Dispense Detergent due to Detergent & Rinse Aid Dispensers
+The detergent dispenser is designed to release detergent into the dishwasher tub during the wash cycles and will typically have two compartments, an unsealed compartment for prewash and a sealed compartment for the main wash cycle.
+How to inspect a dishwasher dispenser:
+Disconnect your appliance from the power source.
+Locate your dispenser, you will not need to remove it to inspect it. It will most likely be found attached to the inside of the dishwasher door.
+Visually inspect the dispenser for any signs of cracking, discoloration, or damage. If you find any caked-on detergent or debris on the dispenser, thoroughly clean it with a wet cloth.
+If you find any of the above issues, you will need a replacement dispenser.
+
+
+
+How to Fix A Dishwasher That Won't Dispense Detergent due to Rinse Aid Cap
+The rinse aid cap could be the reason why your dishwasher is not releasing rinse aid. The rinse aid cap could be loose and may just need to be refitted, but could also be warped or damaged from the heat of the water in the dishwasher.
+How to inspect a dishwasher rinse aid cap:
+This is a very simple inspection; no tools or disassembly will be needed.
+The rinse aid dispensing cap is located on the inner door panel of your dishwasher. Remove the cap from the door in order to inspect it.
+Looking for any signs of melting, warping, cracking, or discoloration, visually inspect the rinse aid cap.
+If you find any issues while performing the inspection above, you will need a replacement rinse aid cap.
+
+
+
+How to Fix A Dishwasher That Won't Dispense Detergent due to Door Spring & Hinge Pin
+If your dishwasher is not dispensing detergent, the spring and hinge pin on the dispenser door could be the problem. The dispenser door is spring loaded and is held in the closed position by a catch.
+How to inspect the door spring & hinge pin in a dishwasher:
+No tools or disassembly will be required; this is a very simple inspection.
+The door spring & hinge pin will be found on the inside of the dishwasher door, on some models it may be covered by the detergent dispenser assembly. Remove any components covering it if applicable.
+Visually inspect the spring and pin to see if they are bent, broken, corroded, or otherwise damaged.
+If you find any issues with your spring and pin, you will need a replacement door spring & hinge pin.
+
+
+
+How to Fix A Dishwasher That Won't Dispense Detergent due to Wax Motor
+The wax motor is used in newer model dishwashers to release the detergent dispenser door catch. If the wax motor is not working properly, then the dispenser door will not open to release the detergent. The wax motor acts as a solenoid when activated by the dishwasher’s timer or control, and the piston operates the mechanism that will release the catch for the dispenser door.
+How to test a dishwasher wax motor with a multimeter:
+Disconnect your appliance from the power source before beginning.
+Depending on your model, you will need to remove the external door panel or the internal door panel in order to access the wax motor, which will be located near the detergent dispenser cup. Remove the wax motor in order to test it.
+Using a multimeter on the Rx1 setting, touch the probes to one terminal each to test it. If you receive a reading of infinity, the motor is defective.
+If your motor fails the test above, you will need a replacement wax motor.
+
+
+
+How to Fix A Dishwasher That Won't Dispense Detergent due to Bi-Metal Release
+Some older model dishwashers use a bi-metal release to operate the detergent dispenser door catch. The bi-metal release uses electric current to create a mechanical action to release the door catch.
+How to test a dishwasher bi-metal release with a multimeter:
+Disconnect your appliance from the power source before beginning this or any other test.
+Locate the bi-metal release. Depending on your model, you will need to remove either the internal or the external door panel in order to access the bi-metal release. Before removing the release, with the panel removed you should check the alignment of the release. You can do this by closing the detergent cup and pushing in on the metal with a small screwdriver until the detergent cup opens. Often only a slight adjustment is needed to solve this issue.
+If this did not fix your issue, remove the release, set your multimeter to Rx1, and touch the probes to the release’s terminals. If your multimeter shows a reading of infinity, your release is defective.
+If your test results indicate your release is faulty, you will need a replacement bi-metal release.
+
+
+
+How to Fix A Dishwasher That Won't Dispense Detergent due to Timer
+Some models of dishwashers will use the timer to mechanically operate the detergent dispenser. At the proper time in the cycle, the timer will activate a lever that releases the detergent door catch. Check that the linkage between the timer and the door catch is working properly and if not replace it. Verify that the cam on the timer is working properly and replace the timer if defective.
+How to test a dishwasher timer with a multimeter:
+Begin by disconnecting the power from your appliance.
+The timer will most likely be found in your unit’s control panel. You will need to remove all or part of your appliance’s cabinet to access it.
+Once you have located it, remove the timer from your dishwasher to test it. If your timer has multiple contacts, you will need to refer to your wiring diagram to identify which contacts you should be testing.
+With your multimeter set to Rx1000, touch each probe to one contact/wire. A normal reading for a dishwasher timer is 2000-3500 ohms of resistance, but this varies from model to model, refer to your owner’s manual to determine what reading you should receive.
+If your reading is outside the manufacturer’s recommendation, you will need a replacement timer.
+
+
+
+'
+    
+    Issue: How to Fix A Dishwasher That Won't Dry Properly
+
+    Reasons:
+    
+    Heating Element,High Limit Thermostat,Rinse Aid Dispenser,
+
+Descriptions
+How to Fix A Dishwasher That Won't Dry Properly due to Heating Element
+A malfunctioning heating element may be the cause for dishes not drying. To test the heating element, first, make sure that power to your dishwasher is turned off, and then check for continuity with a multi-meter.
+How to test the heating element in a dishwasher with a multimeter:
+Unplug your dishwasher before attempting this test.
+Your heating element will be found inside the dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover.
+In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element’s terminals by carefully grasping the metal connector, do not pull on the wire itself.
+To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner’s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective.
+If your test produces a reading different from the manufacturer’s recommendation, you will need a replacement heating element.
+
+
+
+How to Fix A Dishwasher That Won't Dry Properly due to High Limit Thermostat
+The high limit thermostat acts as a safety device that keeps the dishwasher from getting too hot. If the thermostat is malfunctioning, it could shut off the heat before your dishes are finished drying.
+How to test a dishwasher high limit thermostat with a multimeter:
+Ensure that you unplug your appliance before beginning this inspection.
+Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the dishwasher tub, behind the lower access panel.
+Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero.
+If your thermostat produces different results, you will need a replacement high limit thermostat.
+
+
+
+How to Fix A Dishwasher That Won't Dry Properly due to Rinse Aid Dispenser
+The rinse aid or the rinse aid dispensing cap could be the reason why your dishwasher is not fully drying your dishes. Without the rinse aid, the dishes will not shed water easily and will not dry properly.
+How to inspect a dishwasher rinse aid dispenser:
+This inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection.
+Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser.
+After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage.
+If you find any issues with your rinse aid dispenser while performing this inspection, you will need a replacement rinse aid dispenser.
+
+
+

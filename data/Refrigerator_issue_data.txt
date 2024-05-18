@@ -1,0 +1,613 @@
+'
+    
+    Issue: How To Fix A Noisy Refrigerator
+
+    Reasons:
+    
+    Condenser Fan Motor,Evaporator Fan Motor,Evaporator Fan Motor Grommet,
+
+Descriptions
+How To Fix A Noisy Refrigerator due to Condenser Fan Motor
+Most modern frost-free refrigerators will have a fan cooled condenser coil. The condenser fan circulates air through the condenser coil to remove heat as well as circulating air over the drain pan to evaporate the defrost water. If your fridge is making a loud noise, the condenser fan motor could be to blame. The condenser fan motor runs at the same time as the evaporator motor and the compressor. In addition to noise, your fridge might not be staying as cool as normal and/or may be turning on and off regularly.
+How to inspect a refrigerator condenser fan motor:
+Disconnect your refrigerator from the power source and then remove the rear access panel.
+Locate the condenser fan motor, it is usually found near the compressor at the bottom rear of the refrigerator.
+Visually inspect the condenser fan motor for any signs of wear or damage. Look for any debris or obstructions that could be preventing the fan from moving freely.
+If the fan motor is seized or worn, you will need a replacement condenser fan motor.
+
+
+
+How To Fix A Noisy Refrigerator due to Evaporator Fan Motor
+The evaporator fan motor is responsible for pulling air over the evaporator coils when the compressor is running. If your refrigerator is making a loud noise that appears to be coming from the freezer area, a faulty evaporator fan motor could be to blame. You may also notice that your refrigerator is not staying as cold as normal, or your ice is taking longer to freeze.
+How to inspect a refrigerator evaporator fan motor:
+After unplugging your refrigerator, remove the evaporator fan cover. The evaporator fan cover is located inside the unit in the freezer compartment.
+Inspect the evaporator motor for any signs of wear or damage. If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue.
+Attempt to manually turn the motor shaft, it should turn freely with minimal resistance.
+If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor.
+
+
+
+How To Fix A Noisy Refrigerator due to Evaporator Fan Motor Grommet
+The evaporator fan motor grommet is used to isolate the motor from the mounting bracket and reduce vibration noise. Regular wear and tear can cause the grommets to wear or become detached, which can increase vibration and cause excess noise.
+How to check a refrigerator’s evaporator fan motor grommets:
+Unplug your refrigerator.
+Remove the evaporator fan cover, which will be found inside the freezer compartment.
+Inspect the grommet to see if it has fallen off, or it if is showing signs of wear or damage..
+If any of the above are true, you will need a replacement evaporator fan motor grommet.
+
+
+
+'
+    
+    Issue: How To Fix Leaking Refrigerator
+
+    Reasons:
+    
+    Door Gaskets Or Seals,Water Inlet Valve,Ice Maker Assembly,
+
+Descriptions
+How To Fix Leaking Refrigerator due to Door Gaskets Or Seals
+Door gaskets or seals are found along the outside of the refrigerator’s doors. They are normally made from a vinyl material and will typically have a flexible magnetic strip inside to adhere to the cabinet when the door is closed to create an airtight seal. If there is moisture along the edge of the door then inspect the gaskets for distortion or damage. Air leakage through a defective gasket will create excessive moisture in the refrigerator, possibly resulting in defrost issues and potential water leaks.
+How to inspect refrigerator door gaskets or seals:
+After unplugging your refrigerator, open the fridge and freezer doors to inspect the door gaskets or seals.
+You are looking for any discoloration, mold, wear, missing pieces, or anything else that may prevent a proper seal.
+If you find any of the above, you will need replacement gaskets or seals.
+
+
+
+How To Fix Leaking Refrigerator due to Water Inlet Valve
+The water inlet valve is a solenoid-operated device that connects your household water supply line to your refrigerator if you have an ice maker or water dispenser. When activated, it diverts water from the supply line to the dispenser or to fill your ice maker.
+How to check the water inlet valve in a refrigerator with a multi-meter:
+Unplug your refrigerator, disconnect the water supply and locate your water inlet valve. It is usually on the rear of the fridge, near the bottom. You will need to remove the rear panel to access it.
+Inspect the valve inlet supply connections for leaks and tighten or replace the connectors. You should also inspect the valve body for any cracks or damage. Check the outlet tubing for cracks or abrasions that may also create a leak and replace any cracked or brittle tubing and connectors.
+If none of the above appear to be the cause of the leak, remove the water inlet valve from the unit.
+Using a multi-meter on the Rx1 setting, test your valve for conitniuty by placing the probes on the valve’s terminals. You should receive a reading of 200 to 500 ohms.
+If you receive any other reading, you need a replacement water inlet valve.
+
+
+
+How To Fix Leaking Refrigerator due to Ice Maker Assembly
+If your fridge is leaking water from in or around the ice maker, you’re probably also experiencing problems with the ice distribution itself. The cubes may be too small, one solid block of ice or not being produced at all. Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.
+How to inspect a refrigerator’s ice maker assembly:
+Disconnect your appliance from both the power source and water source.
+Inspect the fill tube and the fill cup area at the back of the icemaker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup.
+ Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+If any issues are found while performing the checks above, you will may a replacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator That Will Not Start
+
+    Reasons:
+    
+    Overload Or Relay-Start Capacitor,Cold Control & Temperature Control,Electronic Control Board,
+
+Descriptions
+How To Fix A Refrigerator That Will Not Start due to Overload Or Relay-Start Capacitor
+The overload relay is a protection device used in the compressor circuit on your refrigerator. Power is applied to the compressor motor windings through the overload device, and the relay is used to add the start winding in the circuit until the compressor is at running speed. If the fans are running and your compressor won’t start or if you hear a clicking sound from the unit, check the overload relay for signs of overheating or arcing.
+How to test a refrigerator’s overload or relay-start capacitor with a multi-meter:
+Begin by ensuring you have unplugged your refrigerator, and then remove the rear panel.
+Locate and remove your overload or relay-start capacitor. On modern refrigerators the overload relay is usually a combined part and plugs directly onto the side of the compressor. There may also be a start capacitor attached to the relay overload assembly, which provides increased starting voltage to the compressor windings.
+To test, begin by discharging the capacitor, then set your multi-meter to the Rx1 setting and place the probes onto the terminals of the overload capacitor and/or the relay-start capacitor. The reading you should receive will vary from model to model, and may be indicated on the outside of the capacitor, or in your owner’s manual.
+If your test does not produce the reading the manufacturer recommends, you need a replacement overload or relay-start capacitor. If your tests do produce the recommended readings you may have a defective compressor, which will need to be tested by a qualified professional as it is a live circuit test.
+
+
+
+How To Fix A Refrigerator That Will Not Start due to Cold Control & Temperature Control
+The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If your refrigerator won’t start and no fans are running, then you may have a defective control.
+How to test your fridge’s cold control & temperature control with a multi-meter:
+After disconnecting your appliance from the power source, open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel.
+Remove the control from the fridge in order to test it.
+Using a multi-meter on the Rx1 setting, set your control to the lowest (warmest) setting, and place the probes on the terminals. You are testing for continuity and you should receive a reading of infinity.
+With the probes still on the terminals, adjust the control to higher (colder) and higher settings, your reading should then change to zero, indicating that you have continuity.
+If your control fails either of the tests above, you will need a replacement cold control & temperature control.
+
+
+
+How To Fix A Refrigerator That Will Not Start due to Electronic Control Board
+Some newer refrigerators are controlled by an Electronic Control Board that monitors temperatures and controls the compressor, fans and defrost system. If your refrigerator will not start, the control board could be at fault. Electronic controls are complex and expensive. You should first verify that there is no power being supplied to the compressor, that you have incoming power to the control board and that the external controls are functioning properly before condemning the electronic control.
+How to inspect your refrigerator’s electronic control board:
+Ensure that you have disconnected your appliance from the power before beginning as you will be handling electrical components.
+Open your refrigerator door to locate and remove the electronic control board from your appliance. It will be located inside the control box, which is usually found attached to the top or side of the fridge.
+Look on the control board for signs of arcing, burnt connections, damaged foil, wear, or any other damage.
+If you find any of the above, you need a replacement electronic control board.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator That's Not Making Ice
+
+    Reasons:
+    
+    Water Fill Tubes,Water Inlet Valve,Ice & Water Filter,Ice Maker Assembly & Replacement Ice Maker,
+
+Descriptions
+How To Fix A Refrigerator That's Not Making Ice due to Water Fill Tubes
+Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.
+How to inspect your refrigerator’s water fill tubes:
+Before beginning, disconnect both the power and water source from your refrigerator.
+At the back of the icemaker, inspect the fill tube and the fill cup area at the back of the ice maker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup.
+ Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+If you find any issues while performing the checks above, you will need replacement water fill tubes.
+
+
+
+How To Fix A Refrigerator That's Not Making Ice due to Water Inlet Valve
+Some water inlet valves may have a screen to filter debris before it can enter the valve. If the screen is plugged, water flow will be restricted, and the result will be small or layered ice cubes. Remove and clean the screen if it is clogged. If dirt has gotten into the valve it may not shut off completely and will continuously drip water into the ice maker fill tube and will eventually freeze up. Low household water pressure or a restriction at the manual shut off valve will also cause the water inlet valve to not shut off completely and create this same condition. Self piercing saddle valves are the most common shut off valve to cause this problem as the hole that is pierced in the water line is often too small and will more easily become restricted.
+How to check the water inlet valve in a refrigerator with a multi-meter:
+Disconnect your appliance from the power and water source before beginning.
+Remove the rear access panel and locate your water inlet valve, it is usually found near the bottom.
+Before removing the inlet valve, look for any signs of leaks or loose connectors in the valve inlet supply. If no issues are found, inspect the valve body for any cracks or damage.
+Inspect the outlet tubing for any brittle tubing, abrasions, cracks, or any other damage.
+If you do not locate any leaks, disconnect the water inlet valve and remove it from the refrigerator to test it
+Set your multi-meter to the Rx1 setting and touch the terminals with the probes. You are testing for continuity and should receive a reading of 200 to 500 ohms.
+If you receive any other reading, you need a replacement water inlet valve.
+
+
+
+How To Fix A Refrigerator That's Not Making Ice due to Ice & Water Filter
+If equipped, the Ice and Water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and fabric filter. Over time, the filter may become restricted and reduce the water flow to the ice maker, causing a symptom of little or no ice. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.
+How to inspect your refrigerator’s ice and water filter:
+
+Determine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter.
+Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter.
+Due to the variety of filters and placements we suggest you follow brand specific install instructions or refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar.
+If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need a replacement ice and water filter.
+
+
+
+How to inspect your refrigerator’s ice and water filter:
+
+Determine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter.
+Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter.
+Due to the variety of filters and placements we suggest you follow brand specific install instructions or refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar.
+If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need a replacement ice and water filter.
+
+
+How to inspect your refrigerator’s ice and water filter:
+Determine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter.
+Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter.
+Due to the variety of filters and placements we suggest you follow brand specific install instructions or refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar.
+If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need a replacement ice and water filter.
+
+
+
+How To Fix A Refrigerator That's Not Making Ice due to Ice Maker Assembly & Replacement Ice Maker
+If there are no ice buildup issues or suspected problems with the water supply, then you may have a problem with the ice maker control. The most common type of ice maker used in modern refrigerators is the heat release ice maker. The testing procedure for the heat release ice maker involves a live voltage test, consequently it should only be performed by a qualified professional. However, the issue may also be related to the water fill system or the ice maker assembly.
+How to inspect your refrigerator’s ice maker assembly:
+Begin by disconnecting the water source and unplugging your refrigerator.
+Open the freezer door in order to inspect the fill cup area and the fill tube itself for any signs of damage, wear, or freezing.
+ Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+ If there is an ice buildup in either area, confirm no foreign objects have disrupted the flow of water into the fill cup, and allow the freezer to defrost to see if that resolves the issue.
+If any issues are found while performing the checks above & defrosting the freezer did not solve the issue, you will need a replacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator That's Too Warm
+
+    Reasons:
+    
+    Air Inlet Damper Or Baffle,
+
+Descriptions
+How To Fix A Refrigerator That's Too Warm due to Air Inlet Damper Or Baffle
+The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then you may not have enough cold air entering the fresh food compartment resulting in higher than normal temperatures.
+How to inspect a refrigerator’s air inlet damper or baffle:
+Disconnect your refrigerator from the power source and open your refrigerator door to locate the damper or baffle. It will be found where the cold air enters the fresh food compartment.
+ The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage. Care should be used when inspecting the housing to avoid damage to the seal or the Styrofoam.
+ Some refrigerator models use a temperature sensing bulb attached to this control that will automatically adjust the control for changes in the interior temperature. Make sure that the sensing bulb is in the correct position and is not damaged.
+Attempt to operate the control knob to verify that the linkage is intact and that it moves freely.
+If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle.
+
+
+
+'
+    
+    Issue: How To A Fix Refrigerator That's Not Dispensing Water
+
+    Reasons:
+    
+    Ice & Water Filter,Water Inlet Valve,Water Dispenser Actuator,Micro Switch,Dispenser Control Board,
+
+Descriptions
+How To A Fix Refrigerator That's Not Dispensing Water due to Ice & Water Filter
+If so equipped, the ice and water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and a fabric filter. Over time the filter may become restricted and reduce or stop the water flow to the dispenser. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.
+How to inspect your refrigerator’s ice and water filter:
+Consider when you last changed your ice and water filter. How frequently you need to change your filter varies by model and local water conditions, but you should never exceed 12 months of use per filter.
+Find and remove your water filter. The exact location differs from model to model, but it is commonly located in the water line leading to the fridge, behind the base grill, or inside the unit attached to the rear corner or ceiling. If your filter is in the water line, you will need to disconnect the water supply before beginning.
+With the variety of locations and removal instructions, we recommend you follow brand specific directions, or refer to your owner’s manual for specific directions. Take note of the installation date on your calendar before installing the new filter.
+If your filter is damaged or clogged, or if you have exceeded the manufacturers’ recommended guidelines, you will need a replacement ice and water filter.
+
+
+
+How To A Fix Refrigerator That's Not Dispensing Water due to Water Inlet Valve
+The water inlet valve is a solenoid-operated device that supplies water to the dispenser when activated. When water is selected at the dispenser control panel, line voltage is supplied to the solenoid of the water inlet valve to allow water to flow. Verify that you have adequate pressure at the inlet to the valve, that the inlet screen is not plugged and that there are no restrictions in the inlet or outlet tubing.
+How to test your refrigerator’s water inlet valve with a multi-meter:
+After disconnecting the water supply and unplugging your refrigerator, remove the rear access panel and locate the water inlet valve. It is usually found near the bottom of the fridge.
+Begin by inspecting all the tubing, and their respective connections, for leaks, damage, wear, abrasions, or brittle tubing.
+If you do not locate the source of the leak in the above checks, remove the water inlet valve to test it.
+With a multi-meter in Rx1 mode, touch the terminals with the probes to test for continuity. A functional water inlet valve should put off a reading of 200 to 500 ohms. 
+If you receive any other reading, you need a replacement water inlet valve.
+
+
+
+How To A Fix Refrigerator That's Not Dispensing Water due to Water Dispenser Actuator
+The water dispenser actuator is the mechanical part that activates the dispenser micro switch. It is normally a plastic lever that pivots when depressed by your water glass, and it may be covered with a soft plastic pad. You can usually hear a click when the switch is contacted.
+How to inspect a refrigerator water dispenser actuator:
+Unplug your appliance and turn off the water supply to the refrigerator.
+Remove the control panel cover and verify that the actuator contacts the dispenser switch properly and if not, check the actuator housing bracket, switch mounting bracket and the actuator pivot itself.
+If you find any issues, you may need a replacement water dispenser actuator. If the actuator is contacting the switch, you will need to check the switch or control board for the source of the problem.
+
+
+
+How To A Fix Refrigerator That's Not Dispensing Water due to Micro Switch
+The dispenser micro switch is a momentary contact switch that when actuated will supply power to the solenoid on the water inlet valve.
+How to test a refrigerator micro switch with a multi-meter:
+Disconnect the refrigerator from the power source and turn off the water supply before beginning.
+Remove the control panel of your refrigerator to locate the switch. It will be found behind the pad or lever that is pressed to dispense water.
+After removing the switch, set your multi-meter to the Rx1 setting to test your switch for continuity. You should receive a reading of 200 to 500 ohms.
+If you receive any other reading, you need a replacement micro switch.
+
+
+
+How To A Fix Refrigerator That's Not Dispensing Water due to Dispenser Control Board
+Some models of refrigerators use an electronic control to supply power to the water inlet valve. If you have verified that the water inlet valve is not getting power and the actuator and switch are operating properly, then you may have a defective electronic control.
+How to inspect a refrigerator’s dispenser control board:
+Begin by turning off the water supply and unplugging your refrigerator.
+The dispenser control board is usually located on the freezer door and it’s where you select all the settings for your refrigerator.
+Remove the frame holding the control board in place, using caution to not break or crack the frame as your remove it.
+Inspect the dispenser control board for any signs of damage, wear, burning, or shorted connections.
+If you find any of the above issues, you will need a replacement dispenser control board.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator and Freezer That's Too Warm
+
+    Reasons:
+    
+    Cold Control Or Temperature Control,Evaporator Fan Motor,Electronic Control Board,Temperature Sensor Or Thermistor,Defrost Timer,Defrost Thermostat,Defrost Heater,Condenser Fan Motor,
+
+Descriptions
+How To Fix A Refrigerator and Freezer That's Too Warm due to Cold Control Or Temperature Control
+The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If the compressor and fans are operating normally but not running often enough or long enough to maintain the correct temperatures in the fresh food and freezer sections, then the cold control may be defective or out of calibration. Normal fresh food temperatures are in the 38° Fahrenheit range with the control set to mid-point. Verify that the capillary tube or sensing bulb is not damaged or out of position and that the wire terminals are not loose or corroded.
+How to test your fridge’s cold control & temperature control with a multi-meter:
+Unplug your refrigerator before beginning, then open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel.
+After removing the control from the appliance, turn the control to the warmest setting, set your multi-meter to the Rx1 setting and touch the probes to the terminals
+ You are testing for continuity and you should receive a reading of infinity. With the probes still touching the terminals, adjust the control to higher (colder) and higher settings. Your reading should change to zero, indicating that you have continuity.
+If your control fails either of the tests above, you will need a replacement cold control & temperature control.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Evaporator Fan Motor
+The evaporator fan motor is used to circulate the cold air throughout the refrigerator when the compressor is running. If the fan is defective, then temperatures in the freezer section will rise slowly and temperatures in the fresh food section will rise more rapidly and the compressor will run longer and more frequently than normal. With the compressor running you should also hear the evaporator fan running at the same time, as well as the condenser fan which is located next to the compressor.
+How to inspect a refrigerator evaporator fan motor:
+Disconnect your refrigerator from the power source and remove the evaporator fan cover, which will be found in the freezer compartment.
+The motor shaft should turn freely with minimal resistance, attempt to turn the shaft manually to check for any resistance.
+If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue. You should also inspect the motor for any signs of wear or damage.
+If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Electronic Control Board
+Some newer models of refrigerators may use an electronic control board. Thermistors or temperature sensors are connected to the control board and are used to monitor temperatures in the fresh food and freezer compartments. The control board uses this information to control the operation of the compressor, fan motors and defrost system. If the temperatures are too warm, then the electronic control could be at fault. Electronic controls are complex and expensive and usually reliable, so you should first verify that all of the other components such as the compressor, fans and sensors are operating properly before condemning the control. Some manufacturers may provide specific information that will help in diagnosing a defective control.
+How to inspect your refrigerator’s electronic control board:
+Unplug your fridge before beginning as you will be handling electrical components.
+Locate and remove the electronic control board from your appliance. It is inside of the refrigerator, inside of the control box, which is usually found attached to the top or side of the fridge.
+Inspect your control board for any signs of damaged foil, wear, burnt connections, arcing, or any other damage.
+If you find any of the above, you need a replacement electronic control board.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Temperature Sensor Or Thermistor
+In models that use an Electronic Control, a thermistor or temperature sensor may be used to monitor fresh food and freezer temperatures. The sensor is a small capsule like device that is protected by a plastic shield and will vary in resistance depending on the temperature. The control board uses this information to turn on the compressor and fan circuits as well as to operate the damper control on some models. If a sensor becomes damaged or defective it may incorrectly signal the control board to turn off the compressor and fans and result in warmer than normal fresh food and freezer temperatures. Individual manufacturers may have specific information available to test these sensors, depending on the model involved, and may also provide a fault code on the electronic control board on some models.
+How to test a refrigerator temperature sensor or thermistor with a multi-meter:
+Begin by unplugging your refrigerator, then remove the back panel of your refrigerator to locate the main control board.
+The thermistor(s) will be connected to the main control board. Remove the thermistor(s) from the appliance in order to test them.
+Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes in order to bring the temperature to 32 degrees F. The thermistor(s) will produce different readings at different temperatures, and the suggested ranges below only apply to thermistors at a temperature of 32 degrees F.
+With the probes on the terminals and your multi-meter set to Rx1, you should receive a reading of 16,600 ohms (+/- 5 percent).
+If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Defrost Timer
+The defrost timer is an electro-mechanical timer that operates a set of contacts that control both the compressor circuit as well as the defrost heater circuit. Most timers will activate a defrost cycle every 8-10 hours of compressor run time. This normally occurs about once every day or two. The defrost timer will normally terminate the defrost cycle after 20 to 30 minutes and the compressor and fans will start again.
+How to test a refrigerator defrost timer with a multi-meter:
+Disconnect your appliance from the power source and locate your defrost timer. It can be located behind the refrigerator's lower kickplate, in the refrigerator's control panel, or even behind the refrigerator on its back wall.
+After locating it, remove the defrost timer from the appliance in order to test it
+Using a multi-meter on the Rx1 setting, with one probe touching the common terminal (it should be labeled "3" or "C"), touch the other lead to the other three remaining terminals, one at a time. Testing the first pair should produce a reading of zero, or near zero, denoting continuity. The second pair may also result in a reading of zero or near zero. Testing the third pair of terminals should produce a reading of infinity.
+If you do not receive these readings, you will need a replacement defrost timer.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Defrost Thermostat
+The defrost thermostat is a safety thermostat in series with the defrost heater and is used to terminate the defrost cycle when the evaporator reaches a specific temperature, usually rated at 38° to 47° Fahrenheit. If the thermostat is defective and remains open circuit, then the defrost heater will not be energized and no defrosting will take place.
+How to test a refrigerator’s defrost thermostat with a multi-meter:
+Unplug your refrigerator and locate your refrigerator's defrost thermostat. In freezer-on-top models, it may be located under the floor of the unit, or it could be found at the back of the freezer. If you have a side-by-side refrigerator, the defrost thermostat is found at the back of the freezer side.
+ Once you have located it, remove the defrost thermostat in order to test it. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel.
+Set your multi-meter to the Rx1 setting. Place each of the probes on a thermostat wire. When your thermostat is cold, it should produce a reading of zero on your multi-meter. If it is warm (anywhere from forty to ninety degrees Fahrenheit), then this test should produce a reading of infinity.
+ If the results you receive from your test differ from the ones presented here, then you will need a replacement defrost thermostat.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Defrost Heater
+The defrost heater is the device that melts the ice and frost from the evaporator coils. It is typically a wire filament contained in a glass or aluminum tube. There may be more than one heater depending on the shape of the evaporator.
+How to test a refrigerator defrost heater with a multi-meter:
+Ensure that you have disconnected your appliance from the power source before beginning.
+ Locate your defrost heater. It can be located behind the back panel of the freezer section of your refrigerator, or under the floor of your refrigerator's freezer section. Defrost heaters are commonly located beneath a refrigerator's evaporator coils. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel.
+ Before you can test your defrost heater, you must remove it from your refrigerator. A defrost heater is connected by two wires, and the wires are connected with slip-on connectors. Firmly grasp these connectors and pull them off the terminals. You may need a pair of needle-nosed pliers to help you. Do not pull on the wires themselves.
+ Use your multi-meter to test the heater for continuity. Set your multi-meter to the Rx1 scale and place the tester's leads on one terminal each. This should produce a reading anywhere in between zero and infinity.
+If you receive a reading of zero or infinity, you will need a replacement defrost heater.
+
+
+
+How To Fix A Refrigerator and Freezer That's Too Warm due to Condenser Fan Motor
+Most modern frost-free refrigerators will have a fan cooled condenser coil. This normally located near the compressor at the bottom rear of the refrigerator. The condenser fan circulates air through the condenser coil to remove heat. If the refrigerator is warmer than normal and the compressor is running almost continuously, then you may have a problem with the condenser fan motor. The condenser fan motor runs at the same time as the evaporator motor and the compressor. If the fan motor is not turning at all the condenser will not be able to expel the excess heat and the compressor will run almost continuously
+How to inspect a refrigerator condenser fan motor:
+Begin by unplugging your refrigerator from the power source and then remove the rear access panel to locate the condenser fan motor, it is usually found at the bottom rear of the appliance.
+Once you have located it, Look for any debris or obstructions that could be preventing the fan from moving freely. You should also inspect the condenser fan motor for any signs of wear or damage..
+If the fan motor is seized or worn, you will need a replacement condenser fan motor.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator Door That's Sweating
+
+    Reasons:
+    
+    Fresh Food & Freezer Door Gasket,Dispenser Door Assembly or Flapper & Ice Door Kit,Door Closure Cam Kit,Door Hinge & Bearing,
+
+Descriptions
+How To Fix A Refrigerator Door That's Sweating due to Fresh Food & Freezer Door Gasket
+Leaky or damaged door seals can create excess moisture that is visible near the air outlet ducts or on shelves in the freezer. Damaged gaskets can also prevent doors from closing properly and may introduce enough moisture into the refrigerator that defrost issues may occur. Moisture along the edge of the door is a good indication that the gaskets are not sealing properly and should be replaced.
+How to inspect refrigerator door gaskets:
+Take a piece of paper, and place it at various points along the door.
+Close the door normally and slide the paper out.
+If the paper slides out without any resistance, then you will need replacement fresh food & freezer door gasket(s).
+
+
+
+How To Fix A Refrigerator Door That's Sweating due to Dispenser Door Assembly or Flapper & Ice Door Kit
+When activated, the ice dispenser door opens so that ice can be dispensed from the icemaker. The door or flapper is normally spring loaded and will have a vinyl or foam rubber seal attached to prevent room air from entering the refrigerator. If there is moisture around the front of the dispenser or if there is signs of moisture in the ice bin area, then this would indicate that the door is not closing completely. The flapper door is hinged and is normally operated by a solenoid with a return spring and often with a damper to slow the closing action to prevent the door from closing on an ice cube.
+How to inspect a refrigerator dispenser door assembly or flapper & ice door kit:
+Remove the dispenser cover in order to inspect its components.
+You should inspect the following parts for damage or wear.
+
+Door hinges.
+Door seal.
+Door pivot mechanism.
+Return spring.
+Solenoid plunger and linkage.
+Damper.
+
+If you find any issues while checking the above parts, you may need a replacement dispenser door assembly or flapper & ice door kit.
+
+
+
+How To Fix A Refrigerator Door That's Sweating due to Door Closure Cam Kit
+In some models of side-by-side refrigerators, closer cams on the lower door hinges are used to assist in closing the doors. The cams are made of hard plastic or nylon and have sloped shoulders on them that mate together. One cam is mounted to the bottom of the door and the other is mounted to the top of the hinge. When the door is opened, the door cam rotates up out of the hinge cam, lifting the door up and a detent allows it to stay in an open position. When closing the door, the weight of the door forces the door to pivot closed as the cams mate together. If either of these cams is broken, then the door may not close tightly. This would allow warm outside air to enter the refrigerator and cause condensation to form.
+How to inspect your refrigerator’s door closure cam kit:
+Open your refrigerator door and locate the closer cams.
+Visually inspect the closer cams to verify that they are not cracked, worn, or otherwise damaged.
+If they are damaged, you will need a replacement closure cam kit.
+
+
+
+How To Fix A Refrigerator Door That's Sweating due to Door Hinge & Bearing
+Fresh food and freezer doors rotate on hinges. The hinges act as bearings and the doors should pivot easily on them. If the hinges become worn or dry of lubricant, they may prevent the doors from closing completely. This could allow room air into the refrigerator and cause moisture problems. A common symptom of a faulty hinge bearing is when opening or closing the door a thumping and/or scraping noise can be heard.
+How to check your refrigerator’s door hinge & bearings:
+Open and remove your refrigerator door in order to locate the hinge & bearing.
+Inspect the hinges for any signs of cracking or damage. If they are not damaged, lubricate the hinges with a food safe grease to see if that resolves the issue.
+If they are damaged or greasing the hinges does not solve the issue, you need replacement door hinges & bearings.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator Light That's Not Working
+
+    Reasons:
+    
+    Light Bulb Or Lamp,Light Sockets,Door Light Switch,Light Bulb & Ice Dispenser,
+
+Descriptions
+How To Fix A Refrigerator Light That's Not Working due to Light Bulb Or Lamp
+Most light bulbs or lamps can be checked visually for a broken filament or can be checked with a multi-meter for continuity. You can also simply replace the bulb with a new one.
+How to test a refrigerator lightbulb with a multi-meter.
+Remove the bulb from the refrigerator.
+Set your multi-meter to the Rx1 setting.
+Place one probe on the bottom of the lightbulb, and place the other on the threading of the bulb.
+If you receive a reading of infinity, you need a replacement lightbulb.
+
+
+
+How To Fix A Refrigerator Light That's Not Working due to Light Sockets
+If you have verified that the light bulb or lamp is not defective, then you should next inspect the socket.
+How to inspect the light sockets of a refrigerator:
+Unplug your refrigerator before close inspection of the socket as this is a live voltage circuit.
+Inspect the socket for discolored terminals or heat damaged sockets that may prevent good connectivity to the light bulb or lamp.
+If you find either of the above, you need a replacement light socket.
+
+
+
+How To Fix A Refrigerator Light That's Not Working due to Door Light Switch
+The interior light of your refrigerator is controlled by a switch that is activated when the door is opened and closed. If this switch malfunctions the light might not turn on consistently, if at all.
+How to test a refrigerator door light switch with a multi-meter:
+Unplug your refrigerator and locate your door light switch. The location of the switch varies depending on the model of your refrigerator, but it is usually located somewhere near the top of the door opening. The switch is often mounted into the interior plastic liner and care should be taken when removing it to prevent damage to the liner.
+Remove the switch in order to test it.
+Set your multi-meter to the Rx1 setting to test the switch for continuity and place the probes on the switch’s terminals. The multi-meter reading should change from infinity to a reading of zero. Keep the leads touching the terminals and press in on the switch. The reading should change back to infinity.
+ If the results you receive are not consistent with these results, you need a replacement door switch.
+
+
+
+How To Fix A Refrigerator Light That's Not Working due to Light Bulb & Ice Dispenser
+If your model has an ice and water dispenser with a light bulb you should first verify that the bulb is good. These lights are normally low wattage and are not designed to be used as night lights. Extended periods of usage will typically cause premature failure of the bulb or damage to the socket. Most models will have an on/off switch on the control panel and that may be defective. You can check the switch for continuity with a multi-meter. The lamp or bulb socket may also be defective and the control plate will need to be removed for inspection.
+How to test a refrigerator ice dispenser light on/off switch:
+Disconnect your refrigerator from the power source before beginning.
+Locate and remove your control panel cover to access the on/off switch.
+Remove the on/off switch from the appliance in order to test it.
+Set your multi-meter to the Rx1 setting and place the probes on the switch’s terminals. You should receive a reading of zero. With the probes still on the terminals press in on the switch, the reading should change to infinity.
+If your tests produce results different from those above, you will need a replacement dispenser door switch.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator That's Too Cold
+
+    Reasons:
+    
+    Air Inlet Damper Or Baffle,Temperature Sensor Or Thermistor,Main Control Board,Cold Control Or Temperature Control,
+
+Descriptions
+How To Fix A Refrigerator That's Too Cold due to Air Inlet Damper Or Baffle
+The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then too much cold air may enter the fresh food compartment resulting in lower than normal temperatures. The baffle or damper will be located where the cold air enters the fresh food compartment. The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage.
+How to inspect a refrigerator’s air inlet damper or baffle:
+Unplug your refrigerator and locate the damper or baffle. It is usually found where the cold air enters the fresh food compartment.
+Use caution when inspecting the baffle or damper to not damage the plastic & Styrofoam housing that the baffle or damper is encased in.
+If your model of has a temperature sensing bulb attached to this control make sure that the sensing bulb is in the correct position and not damaged.
+The control knob should move freely, try to move it to verify that the linkage is intact and that it moves freely.
+If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle.
+
+
+
+How To Fix A Refrigerator That's Too Cold due to Temperature Sensor Or Thermistor
+Some electronic controls models will use a thermistor to sense the temperature. The electronic control monitors this temperature and will automatically adjust the damper. The temperature sensor is normally a plastic encased capsule with two wires attached and may be located near the air inlet. The thermistor will have a specific resistance based on temperature and is therefore difficult to diagnose without the manufacturer’s specifications. Some models may indicate a fault code when the sensor is faulty.
+How to test a refrigerator temperature sensor or thermistor with a multi-meter:
+Verify that you have disconnected your appliance from the power source as you will be inspecting electrical components.
+The thermistor(s) will be connected to the main control board, you will need to remove the back panel of your fridge to access the control board. Remove the thermistor(s) from the appliance in order to test them.
+Thermistor(s) will produce different multi-meter readings based on their temperature when you test them. The ranges below only apply to thermistors at 32 degrees F. Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes to bring the temperature to 32 degrees F.
+Set your multi-meter to the Rx1 setting and touch the probes to the terminals, you should receive a reading of 16,600 ohms (+/- 5 percent).
+If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor.
+
+
+
+How To Fix A Refrigerator That's Too Cold due to Main Control Board
+Some newer models may have an electronic control board that controls all of the refrigerators functions. Sensors are connected to the board that monitor fresh food and freezer compartment temperatures and the control board will use that information to operate the compressor and fans as well as the defrost system and in some cases the air baffle/damper to balance temperatures. A defective control board could cause a symptom of the fresh food compartment being too cold, but you should first eliminate the sensors and the damper before changing the control. Some manufacturers may provide detailed information on the procedure for testing the board and the sensors.
+How to inspect a refrigerator’s main control board:
+Disconnect your refrigerator from the power source, you will be inspecting electrical components.
+The main control board is usually found inside the control box, which is inside the fridge, attached to the top or side of the fridge. Locate and remove the main control board from your appliance.
+Looking for any signs of damaged foil, wear, burnt connections, arcing, or any other damage, inspect your main control board.
+If you find any of the above, you need a replacement main control board.
+
+
+
+How To Fix A Refrigerator That's Too Cold due to Cold Control Or Temperature Control
+The cold control thermostat monitors the temperature inside the refrigerator and will operate the compressor and fans when the temperature rises. The control is often labeled as the refrigerator control but in some models may be called the freezer control. The control will have wires attached to it that operate the compressor circuit and will normally have an "off" setting on the knob. If the control is defective it may create a symptom of the fresh food section being too cold but would also lower the temperature in the freezer compartment as well, and the compressor would run longer than normal. Try adjusting both controls starting at the middle settings and monitor the temperatures for 24 hours before making any further adjustments.
+How to test your fridge’s cold control & temperature control with a multi-meter:
+You will be handling electrical components, ensure you have disconnected the power source from your appliance before beginning. Begin by locating your control, it will be inside the fridge, usually in the fresh food section control panel, likely located directly behind the temperature adjustment knob.
+After locating it, remove the control from the fridge, set the control to the lowest (warmest) setting, place your multi-meter on the Rx1 setting, and touch the probes to the terminals to test for continuity. You should receive a reading of infinity.
+While still touching the terminals with the probes, change the control to a colder (higher) setting. This should change the reading from infinity to zero.
+If your control fails either of the tests above, you will need a replacement cold control & temperature control.
+
+
+
+'
+    
+    Issue: How To Fix A Refrigerator That's Running Too Long
+
+    Reasons:
+    
+    Defrost Timer,Defrost Heater,Defrost Termination Thermostat,Fresh & Freezer Door Gaskets,Condenser Fan Motor,Evaporator Fan Motor,Sealed System,
+
+Descriptions
+How To Fix A Refrigerator That's Running Too Long due to Defrost Timer
+The defrost timer can be either a mechanical timer or an electronic "adaptive defrost control". Both are used to initiate the defrost cycle by turning on the defrost heater at specific intervals and for a specific amount of time. Mechanical timers are more common and usually activate a defrost cycle every 8-10 hours of compressor run time. This normally occurs about once every day or two. The defrost cycle will normally terminate after 20 to 30 minutes and the compressor and fans will start again. Adaptive defrost controls will monitor ambient conditions and previous defrost cycles and adapt the defrost cycle frequency and length to be more efficient.
+How to test a refrigerator defrost timer with a multi-meter:
+Unplug your refrigerator before beginning.
+Locate & remove the defrost timer from the appliance in order to test it. It can be found behind the refrigerator's lower kickplate, in the refrigerator's control panel, or even behind the refrigerator on its back wall.
+Set your multi-meter to the Rx1 setting and touch one probe to the common terminal (it should be labeled "3" or "C"). One at a time, touch the other lead to the other three remaining terminals. Testing the first pair should produce a reading of zero, or near zero, denoting continuity. The second pair may also result in a reading of zero or near zero. Testing the third pair of terminals should produce a reading of infinity.
+If you receive different readings, you will need a replacement defrost timer.
+
+
+
+How To Fix A Refrigerator That's Running Too Long due to Defrost Heater
+The defrost heater is controlled by the defrost timer or adaptive defrost control and the defrost termination thermostat. The heater is normally a glass encased heater wire with well insulated wire leads.
+How to test a refrigerator defrost heater with a multi-meter:
+Unplug your refrigerator before starting, you will be inspecting electrical components.
+Remove your defrost heater. Defrost heaters are commonly located beneath a refrigerator's evaporator coils. You will have to remove any objects that are in your way such as shelves, icemaker parts, and the inside rear, back, or bottom panel(s). The defrost heater will have two wires connected to it, carefully grasp the metal connectors to remove them, do not pull the wires themselves.
+With your multi-meter set onto Rx1 mode, place the probes onto the terminals of the defrost heater. You are testing for continuity and you should receive a reading between zero and infinity.
+If you receive a reading of zero or infinity, you will need a replacement defrost heater.
+
+
+
+How To Fix A Refrigerator That's Running Too Long due to Defrost Termination Thermostat
+The defrost termination thermostat is used as a safety device to turn off the defrost heater when the temperature reaches a specific limit. The thermostat is normally wired in series with the defrost element and is normally open circuit above 35°- 47° Fahrenheit. For this reason it is sometimes difficult to check the continuity of the thermostat unless you are sure that the temperature is low enough to close the circuit. Newer style thermostats may have an internal bias resistor to aid in testing both the thermostat and the heater. The wiring diagram will normally indicate this.
+How to test a refrigerator’s defrost thermostat with a multi-meter:
+Because you will be testing electrical components, ensure you have disconnected your appliance from the power source before beginning.
+ Locate and remove the defrost thermostat in order to test it. In freezer-on-top models, it may be located under the floor of the unit, or it could be found at the back of the freezer. If you have a side-by-side refrigerator, the defrost thermostat is found at the back of the freezer side. You will have to remove any objects that are in your way, such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel. 
+With your multi-meter on the Rx1 setting, touch the probes to a thermostat wire. When your thermostat is cold, it should produce a reading of zero on your multi-meter. If it is warm (anywhere from forty to ninety degrees Fahrenheit), then this test should produce a reading of infinity.
+ If your tests produce different results, then you will need a replacement defrost thermostat.
+
+
+
+How To Fix A Refrigerator That's Running Too Long due to Fresh & Freezer Door Gaskets
+Leaky or damaged door seals can create long run times but normally will just create excess moisture that is visible near the air outlet ducts or on shelves in the freezer. Moisture along the edge of the door is also a good indication that the gaskets are not sealing properly and should be replaced.
+How to inspect refrigerator door gaskets:
+At various points around the fridge, place a piece of paper on the seal and close the door normally.
+With the door closed, slide the paper out.
+If you can slide the paper out without any resistance, then you will need a replacement fresh food & freezer door gasket(s).
+
+
+
+How To Fix A Refrigerator That's Running Too Long due to Condenser Fan Motor
+If your fridge sounds like it’s running more often than normal, the condenser fan motor could be to blame. If the condenser cannot expel heat efficiently, then the compressor and sealed system work harder to keep the refrigerator cold. Check for higher than normal surface temperatures on the cabinet between the fresh food and freezer doors as this area contains tubing attached to the condenser and will heat up if the condenser cannot be cooled fast enough.
+How to inspect a refrigerator condenser fan motor:
+Before beginning, ensure that you have disconnected your appliance from the power source, and then locate the condenser fan motor. You will need to remove the rear access panel to find it, it should be near the compressor.
+
+If the fan motor is seized or worn, you will need a replacement condenser fan motor.
+
+
+
+How To Fix A Refrigerator That's Running Too Long due to Evaporator Fan Motor
+The evaporator fan is used to draw air over the evaporator coil and circulate the cold air throughout the fresh food and freezer compartments. If the evaporator fan does not work then the control thermostat or sensor may not correctly sense the temperature and the compressor will continue to run longer than normal. The fresh food and freezer compartment temperatures will increase as well.
+How to inspect a refrigerator evaporator fan motor:
+Because you will be inspecting electrical components, ensure you have unplugged your appliance before beginning.
+Locate the evaporator fan motor, it will be behind the evaporator fan cover, inside the freezer compartment.
+If you notice a large amount of ice has built up on or around the motor, allow your freezer to defrost and see if that resolves the issue.
+Attempt to manually turn the motor shaft, it should turn freely with minimal resistance. You should also inspect the fan and motor for any signs of wear or damage, removing any foreign objects in the area.
+If it is noticeably worn, or if it is seized, you need a replacement evaporator fan motor.
+
+
+
+How To Fix A Refrigerator That's Running Too Long due to Sealed System
+The sealed system in a refrigerator is comprised of the evaporator, the condenser and the compressor and the associated tubing. A defect in any of these components can cause a symptom of running too long or not cooling enough, and would have to be tested and/or serviced by a qualified refrigeration technician as it involves live voltage tests.
+
+
+'
+    
+    Issue: How To Fix A Refrigerator Freezer That's Too Cold
+
+    Reasons:
+    
+    Air Damper Or Freezer Control,Temperature Sensor Or Thermistor,
+
+Descriptions
+How To Fix A Refrigerator Freezer That's Too Cold due to Air Damper Or Freezer Control
+If the freezer section is too cold and the fresh food section temperature is normal you should suspect that the air damper or freezer control is adjusted improperly or may be defective, and is deflecting more than the normal amount of air into the freezer section and not enough into the fresh food compartment to satisfy the cold control and turn off the compressor. 
+How to inspect a refrigerator’s air damper or freezer control:
+Unplug your refrigerator before beginning.
+Locate your air damper or freezer control. It will usually be found in the fresh food compartment, behind a vent found on the top or side of the fridge.
+Remove the vent and inspect the damper flap for any signs of wear or damage, attempt to manually move the flap. You should feel little or no resistance.
+If you find any issues when performing the above checks, you will need a replacement air damper or freezer control. If you do not find the issue, suspect the evaporator coils or motor.
+
+
+
+How To Fix A Refrigerator Freezer That's Too Cold due to Temperature Sensor Or Thermistor
+In models that use an Electronic Control, a thermistor or temperature sensor may be used to monitor fresh food and freezer temperatures. The control board uses this information to turn on the compressor and fan circuits as well as to operate the damper control on some models. If the sensor becomes damaged or defective it may incorrectly signal the control board to close the air damper too much and result in colder than normal freezer temperatures. Individual manufacturers may have specific information available to test these sensors, depending on the model involved, and may also provide a fault code on the electronic control board on some models.
+How to test a refrigerator temperature sensor or thermistor with a multi-meter:
+Disconnect your refrigerator from the power source and then remove the back panel of your refrigerator to locate the main control board.
+Locate and remove the thermistor(s), they will be attached to the main control board.
+Place the thermistor(s) in ice water for 5 minutes before testing. The amount of resistance in a thermistor varies based on what their surface temperature is when they are measured. The range below only applies to thermistors measured at 32 degrees F.
+Using a multi-meter on Rx1 mode, touch the terminals with the meter’s probes. The test should produce a reading of 16,600 ohms (+/- 5 percent).
+If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor.
+
+
+
